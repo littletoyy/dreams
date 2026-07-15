@@ -1,0 +1,6 @@
+{
+  "name": "marketing-assistant-image-backend",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Backend kecil buat proxy OpenAI Image Generation, biar API key aman dan gak kebuka di frontend."
+}
